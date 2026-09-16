@@ -1,0 +1,7 @@
+Correlation vs Covariance in Statistics
+
+Correlation measures the relationship between two variables.
+
+Covariance tells us how two variables change together.
+
+Both correlation and covariance are useful concepts in statistics and data science.
