@@ -2,3 +2,7 @@
 .venv/
 __pycache__/
 *.pyc
+
+# Generated RAG files
+chroma_db/
+uploaded.pdf
